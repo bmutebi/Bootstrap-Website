@@ -1,0 +1,162 @@
+.logo {
+	width: 200px;
+	height: 150px;
+}
+
+/* body {
+	box-sizing: border-box;
+	margin: 0;
+	font-family: "Candara Light";
+	line-height: 1.5;
+	background-color: #fFF;
+}
+
+
+
+.banner-text button {
+	font-size: larger;
+	margin-top: 30px;
+}
+
+header {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.banner-img, .banner-text {
+	width: 50%;
+}
+
+.banner-img img {
+	width: 100%;
+}
+
+.banner-text {
+	text-align: center;
+	font-family: 'Trebuchet MS';
+	background-color: black;
+	height: 406px;
+	color: white;
+}
+
+.banner-text p {
+	padding: 0 80px;
+}
+
+.banner-text p, .sub-title p {
+	color: grey;
+}
+
+.banner-text h1 {
+	font-size: 50px;
+}
+
+button {
+	border-radius: 50px;
+	padding: 15px 40px;
+	background: grey;
+	color: white;
+	font-weight: bolder;
+	border: none;
+}
+
+nav, footer {
+	width: 100%;
+	padding: 20px 0;
+	text-align: center;
+	background: lightgray;
+	font-weight: bolder;
+}
+
+nav {
+	background: none;
+}
+
+a {
+	margin: 0 5px;
+}
+
+footer h2 {
+	font-family: 'Trebuchet MS';
+}
+.title {
+	text-align: center;
+	margin: 50px 0 0 0 ;
+	color: rgb(65, 65, 75);
+	text-transform: uppercase;
+	font-family: 'Trebuchet MS';
+	font-size: xx-small;
+}
+
+.sub-title {
+	width: 60%;
+	margin: 0 auto 80px;
+	text-align: center;
+	font-family: 'Trebuchet MS';
+}
+
+.form-box {
+	width: 40%;
+	margin: -50px auto 40px;
+}
+
+input {
+	display: block;
+	padding: 10px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.form-box button {
+	border-radius: 0;
+}
+.hobbies {
+	width: 80%;
+	margin: 0 auto 50px;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+} 
+
+.hobby {
+	width: 30%;
+	background-color: #efefef;
+}
+
+.hobby-image {
+	width: 100%;
+}
+
+.hobby-title, .hobby-text {
+	text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+	.banner-img, .banner-text {
+		width: 100%;
+	}
+
+	.banner-text {
+		margin-top: -10px;
+		height: auto;
+		padding: 10px 0 60px;
+	}
+
+	.banner-text p {
+		padding: 0 40px;
+	}
+	.sub-title {
+		width: 80%;
+	}
+
+	.form-box {
+		width: 80%;
+	}
+
+	.hobby {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+} */
